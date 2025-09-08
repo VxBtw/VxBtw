@@ -1,5 +1,4 @@
-![Alt text]([https://github.com/VxBtw/svg-storage/blob/main/main.svg])
-<img src="[https://github.com/VxBtw/svg-storage/blob/main/main.svg]">
+![Main SVG](https://raw.githubusercontent.com/VxBtw/svg-storage/refs/heads/main/main.svg?sanitize=true)
 
 
 
